@@ -14,7 +14,7 @@ It was a helper file for a school project and could still be greatly improved.
 
 2. gcc -Wall bitmap_resize.c -o resize
 
-3. /resize original_hex new_hex
+3. ./resize original_hex new_hex
 
 4. Import the hex file into a bitmap editor to recover the new image.
 
